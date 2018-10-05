@@ -1,0 +1,6 @@
+[
+  {
+    "sourceCode": "<style>.red { color: red; }</style><div><a class='red'>This is Red</a></div>",
+    "description": "style sample"
+  }
+]

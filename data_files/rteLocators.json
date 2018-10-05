@@ -1,0 +1,107 @@
+{
+  "format": [
+  {
+    "key": "bold",
+    "locatorByClassName": ".localised-tab-en i[class='mce-ico mce-i-bold']"
+  },
+  {
+    "key": "italic",
+    "locatorByClassName": ".localised-tab-en i[class='mce-ico mce-i-italic']"
+  },
+  {
+    "key": "underline",
+    "locatorByClassName": ".localised-tab-en i[class='mce-ico mce-i-underline']"
+  },
+  {
+    "key": "strikethrough",
+    "locatorByClassName": ".localised-tab-en i[class='mce-ico mce-i-strikethrough']"
+  },
+  {
+    "key": "superscript",
+    "locatorByClassName": "i[class='mce-ico mce-i-superscript']"
+  },
+  {
+    "key": "subscript",
+    "locatorByClassName": "i[class='mce-ico mce-i-subscript']"
+  },
+  {
+    "key": "clear formatting",
+    "locatorByClassName": ".localised-tab-en i[class='mce-ico mce-i-removeformat']"
+  }
+],
+"alignment": [
+  {
+    "key": "align left",
+    "locatorByClassName": ".localised-tab-en i[class='mce-ico mce-i-alignleft']"
+  },
+  {
+    "key": "align center",
+    "locatorByClassName": ".localised-tab-en i[class='mce-ico mce-i-aligncenter']"
+  },
+  {
+    "key": "align right",
+    "locatorByClassName": ".localised-tab-en i[class='mce-ico mce-i-alignright']"
+  },
+  {
+    "key": "align justify",
+    "locatorByClassName": ".localised-tab-en i[class='mce-ico mce-i-alignjustify']"
+  },
+  {
+    "key": "bullet",
+    "locatorByClassName": ".localised-tab-en i[class='mce-ico mce-i-bullist']"
+  },
+  {
+    "key": "num list",
+    "locatorByClassName": ".localised-tab-en i[class='mce-ico mce-i-numlist']"
+  },
+  {
+    "key": "decrease indent",
+    "locatorByClassName": ".localised-tab-en i[class='mce-ico mce-i-outdent']"
+  },
+  {
+    "key": "increase indent",
+    "locatorByClassName": ".localised-tab-en i[class='mce-ico mce-i-indent']"
+  }
+],
+"insert": [
+  {
+    "key": "insert image",
+    "locatorByClassName": ".localised-tab-en i[class='mce-ico mce-i-mce-ico mce-i-image']"
+  },
+  {
+    "key": "insert link",
+    "locatorByClassName": ".localised-tab-en i[class='mce-ico mce-i-link']"
+  },
+  {
+    "key": "insert table",
+    "locatorByClassName": ".mce-container i.mce-i-table"
+  },
+  {
+    "key": "insert Special Character",
+    "locatorByClassName": ".localised-tab-en i[class='mce-ico mce-i-charmap']"
+  }
+],
+"edit": [
+  {
+    "key": "undo",
+    "locatorByClassName": ".localised-tab-en i[class='mce-ico mce-i-undo']"
+  },
+  {
+    "key": "redo",
+    "locatorByClassName": ".localised-tab-en i[class='mce-ico mce-i-redo']"
+  },
+  {
+    "key": "cut",
+    "locatorByClassName": "i[class='mce-ico mce-i-cut']"
+  },
+  {
+    "key": "copy",
+    "locatorByClassName": "i[class='mce-ico mce-i-copy']"
+  },
+  {
+    "key": "paste",
+    "locatorByClassName": "i[class='mce-ico mce-i-paste']"
+  }
+]
+
+}

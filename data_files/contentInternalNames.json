@@ -1,0 +1,14 @@
+[
+  {
+    "tab": "https://contentmanager.makdev.intra-apps.com/content/list/published",
+    "input": "testMarketingPage-published"
+  },
+  {
+    "tab": "https://contentmanager.makdev.intra-apps.com/content/list/draft",
+    "input": "testMarketingPage-draft"
+  },
+  {
+    "tab": "https://contentmanager.makdev.intra-apps.com/content/list/unpublished",
+    "input": "testMarketingPage-unpublished"
+  }
+]

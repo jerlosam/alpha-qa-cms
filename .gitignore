@@ -1,0 +1,33 @@
+node_modules
+node
+etc
+lib
+target
+dist
+compiled
+.vscode
+npm-debug.log
+.classpath
+.project
+.settings
+webdriver-manager
+Runner.js
+specjer0.js
+cms_confjervisual.js
+
+# OS generated files #
+######################
+*/.DS_Store
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Intellij
+.idea/
+*.iml
+*.iws

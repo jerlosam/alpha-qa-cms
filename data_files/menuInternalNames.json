@@ -1,0 +1,14 @@
+[
+  {
+    "tab": "https://contentmanager.makdev.intra-apps.com/menu/list/published",
+    "input": "testMenu-published"
+  },
+  {
+    "tab": "https://contentmanager.makdev.intra-apps.com/menu/list/unpublished",
+    "input": "testMenu-unpublished"
+  },
+  {
+    "tab": "https://contentmanager.makdev.intra-apps.com/menu/list/draft",
+    "input": "testMenu-draft"
+  }
+]

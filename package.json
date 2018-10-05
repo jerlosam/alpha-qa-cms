@@ -1,0 +1,28 @@
+{
+  "name": "protractor-example",
+  "dependencies": {
+    "jasmine-data-provider": "^2.2.0",
+    "protractor-image-comparison": "^1.5.0",
+    "selenium-server": "^3.8.1",
+    "selenium-webdriver": "^3.6.0",
+    "webdriver-manager": "^12.0.6"
+  },
+  "scripts": {
+    "macserver": "./node_modules/.bin/protractor cms_conf.js --seleniumAddress http://10.207.32.66/wd/hub --browser chrome",
+    "test": "./node_modules/.bin/protractor cms_conf.js --seleniumAddress http://10.207.32.114:32770/wd/hub --browser chrome",
+    "test:firefox": "./node_modules/.bin/protractor cms_conf.js --seleniumAddress http://10.207.32.114:32770/wd/hub --browser firefox",
+    "local:chrome": "./node_modules/.bin/protractor cms_conf.js --seleniumAddress http://localhost:4444/wd/hub --browser chrome",
+    "server": "./node_modules/.bin/protractor cms_conf.js --browser chrome"
+  },
+  "devDependencies": {
+    "jasmine-reporters": "^2.2.1",
+    "jasmine-spec-reporter": "^4.2.1",
+    "pix-diff": "^2.0.1",
+    "protractor": "^5.2.2",
+    "protractor-http-mock": "^0.10.0",
+    "protractor-jasmine2-html-reporter": "0.0.7",
+    "protractor-jasmine2-screenshot-reporter": "^0.5.0",
+    "selenium-webdriver": "^3.6.0",
+    "visualreview-protractor": "^0.3.0"
+  }
+}
